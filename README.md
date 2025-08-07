@@ -1,22 +1,32 @@
 <h2 align="center">🧙‍♂️ Hi there, traveler! 👋</h2>
-<div>
+
 <p align="center">
   <b>A glimpse into my character sheet:</b>
 </p>
 
-<p align="center">
-
-<pre>
-{
-  "👋 My name is": "Esteban",
-  "👨 Pronouns": "He/Him",
-  "⚡ Age": 23,
-  "🌱 Currently learning": "GDScript",
-  "❤️ I love": "Warcraft",
-  "💻 Favorite languages": ["Java", "TypeScript"]
-}
-</pre>
+<p dir="auto">
+  <a target="_blank">
+  </a>
 </p>
+
+<p dir="auto">
+  <a>
+    <img align="right" src="pixel_art_face.png" width="10%" style="max-width: 100%;">
+  </a>
+</p>
+
+<p>{</p>
+<ul>
+    <li>🍯 <code>My name is</code>: <b>Esteban</b>,</li>
+    <li>🧔 <code>Pronouns</code>: <b>He/Him</b>,</li>
+    <li>⚡ <code>I'm</code>: <b>23 years old</b>,</li>
+    <li>🌱 <code>Currently learning</code>: <b>GDScript</b>,</li>
+    <li>❤️ <code>I love</code>: <b>Warcraft & Pixel art</b>,</li>
+    <li>💻 <code>Favorite lang</code>: <b>Java & TypeScript</b></li>
+</ul>
+<p>}</p>
+
+
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
