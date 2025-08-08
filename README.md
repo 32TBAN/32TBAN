@@ -30,16 +30,16 @@
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=32TEBAN&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=32TBAN&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=00000000&include_all_commits=true" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=32TEBAN&theme=material-palenight&hide_border=true&background=FFFFFF00" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=32TEBAN&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=6.5&fire=F77F00&ring=FF4081&currStreakLabel=00FFAA&background=1e1e1e00" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32TEBAN&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32TBAN&layout=compact&theme=material-palenight&hide_border=true&size_weight=0&count_weight=1&langs_count=9" />
     </td>
   </tr>
 </table>
