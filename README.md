@@ -54,7 +54,7 @@
       <h3>AR Turismo</h3>
       <img src="https://github.com/32TBAN/TurismoAR/blob/main/docs/add-point.png" width="80" />
       <p>Mobile app built with ARCore to guide tourists</p>
-      <a href="https://github.com/32TEBAN/ar-turismo-salcedo">Repository</a>
+      <a href="https://github.com/32TBAN/TurismoAR">Repository</a>
     </td>
     <td align="center" width="25%">
       <h3>Billing Platform</h3>
