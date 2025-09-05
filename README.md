@@ -52,7 +52,7 @@
   <tr>
     <td align="center" width="25%">
       <h3>AR Turismo</h3>
-      <img src="https://github.com/32TBAN/TurismoAR/blob/main/docs/add-point.png" width="80" />
+      <img src="https://github.com/32TBAN/TurismoAR/blob/main/docs/concep.png" width="80" />
       <p>Mobile app built with ARCore to guide tourists</p>
       <a href="https://github.com/32TBAN/TurismoAR">Repository</a>
     </td>
