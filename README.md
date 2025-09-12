@@ -58,9 +58,9 @@
     </td>
     <td align="center" width="25%">
       <h3>Billing Platform</h3>
-      <img src="https://via.placeholder.com/100x100.png?text=Billing" width="80" />
-      <p>Complete invoicing platform using React and Node.js.</p>
-      <a href="https://github.com/32TEBAN/facturacion-react-node">Repository</a>
+      <img src="https://github.com/32TBAN/Facturacion/blob/main/doc/concep.png" width="80" />
+      <p>Web platform designed for the invoicing process. Simplifying administration for small and medium-sized businesses.</p>
+      <a href="https://github.com/32TBAN/Facturacion">Repository</a>
     </td>
     <td align="center" width="25%">
       <h3>Facial Recognition</h3>
