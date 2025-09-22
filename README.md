@@ -66,13 +66,13 @@
       <h3>Facial Recognition</h3>
       <img src="https://via.placeholder.com/100x100.png?text=Face+ID" width="80" />
       <p>Real-time face detection using Python and OpenCV.</p>
-      <a href="https://github.com/32TEBAN/face-id-python">Repository</a>
+      <a href="https://github.com/32TBAN/Reconocimiento-Facial">Repository</a>
     </td>
     <td align="center" width="25%">
       <h3>JS Chatbot</h3>
       <img src="https://via.placeholder.com/100x100.png?text=Chatbot" width="80" />
       <p>Interactive chatbot created with vanilla JavaScript.</p>
-      <a href="https://github.com/32TEBAN/chatbot-js">Repository</a>
+      <a href="https://github.com/32TBAN/chatbot">Repository</a>
     </td>
   </tr>
 </table>
