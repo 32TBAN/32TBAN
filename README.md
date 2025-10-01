@@ -70,7 +70,7 @@
     </td>
     <td align="center" width="25%">
       <h3>JS Chatbot</h3>
-      <img src="https://via.placeholder.com/100x100.png?text=Chatbot" width="80" />
+      <img src="https://github.com/32TBAN/chatbot/blob/main/docs/concep.png" width="80" />
       <p>Interactive chatbot created with vanilla JavaScript.</p>
       <a href="https://github.com/32TBAN/chatbot">Repository</a>
     </td>
