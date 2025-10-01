@@ -64,7 +64,7 @@
     </td>
     <td align="center" width="25%">
       <h3>Facial Recognition</h3>
-      <img src="https://via.placeholder.com/100x100.png?text=Face+ID" width="80" />
+      <img src="https://github.com/32TBAN/Reconocimiento-Facial/blob/main/docs/concep.png" width="80" />
       <p>Real-time face detection using Python and OpenCV.</p>
       <a href="https://github.com/32TBAN/Reconocimiento-Facial">Repository</a>
     </td>
